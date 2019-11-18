@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IRSgGY8.png" tvg-country="EE" tvg-url="" group-title="",PINGVIN LOLO
+http://82.193.71.93/LoLoEE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imgur.com/IRSgGY8.png" tvg-country="LT" tvg-url="" group-title="",PINGVIN LOLO
+http://82.193.71.93/LoLoLT/tracks-v1a1/index.m3u8
